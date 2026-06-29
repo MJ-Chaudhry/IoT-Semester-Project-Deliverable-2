@@ -1,6 +1,17 @@
 # IoT-Smester-Project-Deliverable-2
 #### By Group 5 (Verdant) - Clyde, Lee, Vinit, Samwel, and Junaid.
 
+## Table of Contents
+- [Background](#background)
+- [Wokwi Designs](#wokwi-designs)
+    - [Circuit A](#circuit-a)
+    - [Circuit C](#circuit-c)
+- [Physical Prototypes](#physical-prototypes)
+    - [Circuit A](#circuit-a-1)
+        - [Video](#video)
+    - [Circuit B](#circuit-b)
+- [Group Photo](#group-photo)
+
 ## Background
 This repository outlines the Wokwi simulated designs for a set of circuits designed in Deliverable 1 (which can be found [here](https://github.com/MJ-Chaudhry/IoT-Semester-Project-Deliverable-1)).
 
