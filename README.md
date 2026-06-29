@@ -37,6 +37,8 @@ The code for each Wokwi simulation is also included in the link.
 #### Video
 Below is a video sample showing how the temperature and humidity increased when a finger was placed close to the DHT22 sensor as well.
 <video src="images/prototype-a/video.mp4" width="100%" controls></video>
+
+**Note:** If the video doesn't load, you can find it [here](images/prototype-a/video.mp4).
 ### Circuit B
 ![LCD Output](images/prototype-b/circuit.jpeg)
 
